@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="7DASlqzIO0q89NIFbqH_ww" Reference="VyGQFi9KoEatnV9G7AsMCw/AO137TSMkk6zWivdRf0KBg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.global.jdsports.com/search/Nike+T-shirt/" CVScreenId="52bbca47-643b-4fca-81f1-86a60721169b" CvTextArea="700, 201, 143, 11" CvTextArgument="Search... Nike Air Max 97" CvType="Text" DesignTimeRectangle="690, 187, 289, 40" DesignTimeScaleFactor="1" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='srchInput' tag='INPUT' /&gt;" FuzzySelectorArgument="&lt;webctrl id='srchInput' tag='INPUT' type='text' class='' placeholder='Search... Nike Academy' aaname='' /&gt;" Guid="b493a880-0ed3-4694-8a03-84be5fe17f05" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Nike T-shirt - JD Sports Global' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V3" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="949, 192, 30, 30" FullSelectorArgument="&lt;webctrl id='speechInput' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl id='speechInput' tag='SPAN' type='' class='' aaname='' /&gt;" Guid="53fa21c7-4095-4567-beee-cc808c731c8e" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e250b799ad4595d44181a646abce820b.png" xmlns="">0gMp-4-Q-1UWfdVJmjjg2oQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
